@@ -131,14 +131,3 @@ This command will start running the Flask server.
  ```
 - Open a Jupyter Notebook in VS Code and select `myenv` from the kernel dropdown menu in the notebook interface.
 -
-
-## Research
-
-### Prior Research
-Our project builds on findings from the paper "The Curious Case of Neural Text Degeneration" by Holtzman et al. (https://arxiv.org/pdf/1904.09751v2.pdf). This study looks at the challenges associated with text generation by neural networks, which helped us understand the context and difficulties surrounding machine learning based fake news detection.
-
-### Original Research
-The initial inspiration for our project comes from the paper "Defending Against Neural Fake News" (https://arxiv.org/abs/1905.12616). This study provides valuable context for considering the impact of AI-generated content in news media, which informed our exploration into effective fake news detection strategies.
-
-### Contemporary Research
-We also examined ideas from "RoFT: A Tool for Evaluating Human Detection of Machine-Generated Text" by Dugan et al. (https://arxiv.org/pdf/2010.03070.pdf). This paper introduces new techniques used for detecting machine-generated texts, updating our understanding surrounding fake news detection and furthering this topic of ongoing reasearch.
