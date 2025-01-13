@@ -70,12 +70,12 @@ git lfs install
   - Navigate to your desired directory with `cd <directory-path>`.
 - Run the command in the VS Code terminal `View > Terminal` to clone the repository:
   ```
-  git clone https://github.com/lukeflannigan/CS-4371-Team5-Project.git
+  git clone https://github.com/lukeflannigan/Fake-News-Detection-Model.git
   ```
 
 - After cloning, you need to change the directory to the project folder. Run:
     ```
-    cd CS-4371-Team5-Project
+    cd Fake-News-Detection-Model
     ```
    
 ### Create and Activate a Virtual Environment
